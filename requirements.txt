@@ -1,2 +1,6 @@
 tensorflow
 jupyter
+requests
+matplotlib
+pydot
+graphviz
